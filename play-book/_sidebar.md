@@ -1,0 +1,7 @@
+- [返回首页](/)
+- [play-book](play-book/)
+  - [01playbook配置文件](play-book/01playbook配置文件.md)
+  - [02loop循环](play-book/02loop循环.md)
+  - [03条件语句](play-book/03条件语句.md)
+  - [04set_fact变量](play-book/04set_fact变量.md)
+  - [05block异常捕获](play-book/05block异常捕获.md)

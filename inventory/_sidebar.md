@@ -1,0 +1,5 @@
+- [返回首页](/)
+- [inventory](inventory/)
+  - [01静态文件](inventory/01静态文件.md)
+  - [02动态文件](inventory/02动态文件.md)
+  - [03资产选择器](inventory/03资产选择器.md)

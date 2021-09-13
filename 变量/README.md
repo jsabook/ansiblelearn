@@ -1,0 +1,8 @@
+- [返回首页](/)
+- [变量](变量/)
+  - [01ansible全局变量](变量/01ansible全局变量.md)
+  - [02ansible之playbook变量](变量/02ansible之playbook变量.md)
+  - [03ansible之inventory变量](变量/03ansible之inventory变量.md)
+  - [04ansible之fact变量](变量/04ansible之fact变量.md)
+  - [05ansible之register变量](变量/05ansible之register变量.md)
+  - [06ansible之变量优先级](变量/06ansible之变量优先级.md)
